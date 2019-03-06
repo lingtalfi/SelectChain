@@ -1,8 +1,8 @@
 <?php
 
 
-use Tim\TimServer\TimServer;
-use Tim\TimServer\TimServerInterface;
+use Ling\Tim\TimServer\TimServer;
+use Ling\Tim\TimServer\TimServerInterface;
 
 require_once "bigbang.php"; // start the local universe
 
